@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mike05-debug
 - 👀 I’m a 3d/Pixel artist
 - 🌱 A hobbyist gamedev
-- 💞️ I’m looking to collaborate with other people who share my passion for gamedev
+- 💞️ I love meeting with other people who share my passion for gamedev
 
 
 <!---
